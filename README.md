@@ -5,3 +5,4 @@ Previous update had plenty of ^D signs maybe because I tried to use cat command 
   
 - Adding text to existing file with cat. Created a search input area. Next task is to make a flex navibar
 - Created a responsive navibar with flex
+- Created a img gallery[D[D[D[D[D[D[D[D[D[D[Dresponsesponsive img gallery with flex
