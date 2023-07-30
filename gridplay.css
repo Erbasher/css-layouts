@@ -15,7 +15,12 @@ body {
     display: grid;
     grid-template-columns: 100px 100px 100px;
     grid-template-rows: 2fr 1fr;
+    grid-gap: 10px;
+    background-color: rgb(202, 96, 96);
 }
+
+
+
 
 
 
