@@ -8,3 +8,5 @@ Previous update had plenty of ^D signs maybe because I tried to use cat command 
 - Created a responsive img gallery with flex
 - Created horizontal and vertical barcharts
 - Playing around with grid. Testing minmax and repeat functions and some other properties too. Fascinating to see how good the grid layout actually is. I can only imagine all the opportunities it brings in to the web dev.
+
+- Gridlab html + css files where a grid layout know as a "Holy Grail" -layout
